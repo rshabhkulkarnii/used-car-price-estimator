@@ -9,9 +9,6 @@ __pycache__/
 # Large or restricted raw data
 data/*.csv
 
-# Keep processed data out of Git unless intentionally needed
-data/processed/*.csv
-
 # Ignore temporary evaluation outputs
 models/test_predictions.csv
 models/final_test_predictions.csv
